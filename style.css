@@ -1,0 +1,9 @@
+body{
+    background-color:rgb(149, 208, 231);
+}
+
+.start{
+    color:rgba(245, 31, 67, 0.5);
+    font-size: 20px;
+    font-family: verdana;
+}
