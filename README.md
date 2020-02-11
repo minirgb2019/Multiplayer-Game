@@ -13,7 +13,7 @@
 
 ![K_2win](https://user-images.githubusercontent.com/51940857/74211941-0e608780-4c60-11ea-8b35-de15185c0ab2.PNG)
 
-##Improvement
+#Improvement
   It might use React to rewrite codes, which can make multiplayer game, so players can interact better.
   It might add some 3-D floating image on the website.
   
